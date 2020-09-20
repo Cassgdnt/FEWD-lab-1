@@ -1,0 +1,72 @@
+.bg-light{
+    background-color:#005C69 !important;
+}
+.presentation{
+    margin-top:30px;
+    display:flex;
+}
+.right{
+    width:50%;
+}
+.right h1,h2{
+    margin-top:80px;
+text-align:center;
+}
+.left{
+    width:50%;
+}
+.left img{
+    width:95%;
+}
+.hobbies{
+    margin-top:30px;
+    display:flex;
+    justify-content: space-around;
+}
+.card img{
+    height:350px;
+    object-fit:cover;
+}
+footer{
+    background-color:#005C69 !important;
+    height:100px;
+}
+.socialMedia{
+    width: 1000px;
+    margin-left: auto;
+}
+footer a{
+    margin-top:20px;
+    text-align: center;
+    color:white;
+    width:8%;
+    justify-content:space-between;
+}
+footer a:hover{
+    opacity:0.75;
+    color:white;
+    text-decoration:none;
+}
+
+hr{
+    width: 400px;
+    margin-left: auto;
+    border: #005C69 solid 1.5px;
+}
+#student{
+    padding:0 100 0 100px;
+}
+.formContact{
+    width: 500px;
+    margin: auto;
+    padding-top: 50px;
+}
+label{
+    text-align: center;
+    display: block;
+    text-decoration: underline;
+}
+.btn{
+    color: white;
+    background-color: #005C69;
+}
